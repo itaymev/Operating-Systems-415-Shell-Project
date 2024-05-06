@@ -1,15 +1,3 @@
-/*
- * string_parser.h
- *
- *  Created on: Nov 8, 2020
- *      Author: gguan, Monil
- *
- *	Purpose: The goal of this dynamic helper string struct is to reliably 
- *			 tokenize strings base on different delimeter. Following this structure
- *           would help to keep the code clean.
- *
- */
-
 #ifndef STRING_PARSER_H_
 #define STRING_PARSER_H_
 
