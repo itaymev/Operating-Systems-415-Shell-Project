@@ -1,11 +1,3 @@
-/*
- * string_parser.c
- *
- *  Created on: Nov 25, 2020
- *      Author: gguan, Monil
- *
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
